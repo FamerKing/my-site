@@ -190,8 +190,6 @@ params:
         company: "Bytedance (MOONTON Games)"
         companyUrl: "https://en.moonton.com/games/index.html"
         date: "April 2022 - October 2022"
-        info:
-          enable: true
         featuredLink:
           enable: true
           name: "MLBB M5 with a peak audience exceeding 5.06 million viewers"
