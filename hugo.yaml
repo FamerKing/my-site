@@ -159,12 +159,12 @@ params:
       enable: true
       title: "Here are a few fields I've been closely following:"
       items:
-        - "Natural Language Processing (Sentiment Analysis)"
-        - "Large Language Models (LLMs)"
-        - "Computer Vision (Style Transfer)"
+        - "NLP (Sentiment Analysis)"
+        - "LLMs"
+        - "CV (Style Transfer)"
         - "Object Detection"
         - "EEG Analysis"
-        - "Consumer Behavior Modeling and Analysis"
+        - "Consumer Behavior Modeling"
 
   # Experience
   experience:
@@ -183,8 +183,8 @@ params:
           enable: true
           content: I worked as a multimedia algorithm engineer for 3 months in Tencent.
         content: |
-          1. Tencent Oteam-OCR Open Source Collaborative Project: responsible  for the collaborative  development of some algorithms for image distortion correction , detection , and recognition , and at the same time for code debugging , integration, testing under the remote server linux system.
-          2. Tencent  NLG (table text generation ) start -up project : responsible for table analysis mode , text preprocessing , structure     design    and   algorithmization        of table preprocessing , for efficient  processing  and analysis  of Tencent's various game data.
+          1. Tencent Oteam-OCR Open Source Collaborative Project: responsible  for the collaborative  development of some algorithms for image distortion correction, detection, and recognition , and at the same time for code debugging, integration, testing under the remote server linux system.
+          2. Tencent  NLG (table text generation ) start -up project : responsible for table analysis mode, text preprocessing, structure design and algorithmization of table preprocessing, for efficient processing and analysis of Tencent's various game data.
 
       - job: "Game data operation"
         company: "Bytedance (MOONTON Games)"
@@ -196,7 +196,7 @@ params:
           url: "https://www.youtube.com/watch?v=kHoiteTv6-k"
         info:
           enable: true
-          content: I worked as a software developer for more than one year in Amazon.
+          content: I worked as a game data operation for more than 6 months in Bytedance (MOONTON Games).
         content: |
           1. Organize the No. 1 MOBA game in South Asia "MLBB" local events in Pakistan, Nepal, Bangladesh and more.
           2. Responsible for localized community operations in South Asia.
