@@ -199,9 +199,8 @@ params:
           content: I worked as a game data operation for more than 6 months in Bytedance (MOONTON Games).
         content: |
           1. Organize the No. 1 MOBA game in South Asia "MLBB" local events in Pakistan, Nepal, Bangladesh and more.
-          2. Responsible for localized community operations in South Asia.
-          3. Responsible for the operation of creator projects in South Asia, and is the organizer and manager of a creator team of about 100 people.
-          4. Use data analytics to analyze and predict game user data and calculate return on investment.
+          2. Responsible for localized community operations and management of creator projects in South Asia which contains over 100 people.
+          3. Use data analytics to analyze and predict game user data and calculate return on investment.
 
       - job: "Strategy Analyst"
         company: "Lilith Games"
@@ -218,25 +217,24 @@ params:
           2. Industry financial reports and annual report analysis , game competitive product monitoring , AI-driven game market forecast , etc. Game types include but are not limited to: FPS, match-3 and SLG.
           3. Conduct project investment and cooperation talks with leading game companies and new power studios in Europe , the United States, South Korea and other regions.
 
-      - job: "Game data operation"
-        company: "Bytedance (MOONTON Games)"
-        companyUrl: "https://en.moonton.com/games/index.html"
-        date: "January 2022 - March 2022"
-        featuredLink:
-          enable: true
-          name: "MLBB M5 with a peak audience exceeding 5.06 million viewers"
-          url: "https://www.youtube.com/watch?v=kHoiteTv6-k"
-        content: |
-          1. Organize the No. 1 MOBA game in South Asia "MLBB" local events in Pakistan, Nepal, Bangladesh and more.
-          2. Responsible for localized community operations in South Asia.
-          3. Responsible for the operation of creator projects in South Asia, and is the organizer and manager of a creator team of about 100 people.
-          4. Use data analytics to analyze and predict game user data and calculate return on investment.
-
-      - job: "Product Designer"
-        company: "Google"
-        companyUrl: "https://example.com"
-        date: "Feb 2016 - Mar 2017"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+#      - job: "Game data operation"
+#        company: "Bytedance (MOONTON Games)"
+#        companyUrl: "https://en.moonton.com/games/index.html"
+#        date: "January 2022 - March 2022"
+#        featuredLink:
+#          enable: true
+#          name: "MLBB M5 with a peak audience exceeding 5.06 million viewers"
+#          url: "https://www.youtube.com/watch?v=kHoiteTv6-k"
+#        content: |
+#          1. Organize the No. 1 MOBA game in South Asia "MLBB" local events in Pakistan, Nepal, Bangladesh and more.
+#          2. Responsible for localized community operations in South Asia.
+#          3. Responsible for the operation of creator projects in South Asia, and is the organizer and manager of a creator team of about 100 people.
+#
+#      - job: "Product Designer"
+#        company: "Google"
+#        companyUrl: "https://example.com"
+#        date: "Feb 2016 - Mar 2017"
+#        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
 
   # Education
   education:
