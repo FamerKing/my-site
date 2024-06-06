@@ -167,7 +167,7 @@ params:
         - "Consumer Behavior Modeling"
 
   # Experience
-  Working experience:
+  experience:
     enable: true
     # title: "Custom Name"
     items:
