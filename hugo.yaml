@@ -140,7 +140,7 @@ params:
       customIcons:
         - icon: /images/kaggle.svg
           url: "https://www.kaggle.com/lvcvesaul"
-        - icon: /images/linkedin.svg
+        - icon: /images/linkedin.png
           url: "https://www.linkedin.com/in/haoran-luo-5568682b6"
         - icon: /images/gmail.svg
           url: "mailto:stxlhr@gmail.com"

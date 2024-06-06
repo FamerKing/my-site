@@ -1,8 +1,6 @@
-.hero-subtitle {
-    font-size: 0.8rem; 
-}
-
-.hero-social-icons img {
-    width: 300px;
-    height: 300px;
+.custom-subtitle {
+    font-size: 0.9rem; /* 调整为你想要的大小 */
+    color: var(--text-color); /* 可选：调整颜色 */
+    font-weight: 400; /* 可选：调整字体粗细 */
+    margin-bottom: 1rem; /* 可选：调整下方的间距 */
 }
