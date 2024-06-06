@@ -152,65 +152,71 @@ params:
     title: "About Me"
     image: "/me.jpg"
     content: |-
-      I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. 
-
-      I am currently working on a project that will be used to help people find the best way to get around the city.
+      I am a doctoral student at Waseda University's Graduate School of Creative Science and Engineering. My current research focuses on the development and industrialization of business digital transformation technologies for Japan's Society 5.0, funded by the Japan Science and Technology Agency (JST). During my master's and doctoral studies, I have concentrated on integrating computer science-based research with industry to drive innovation and economic development. This is also the core topic of my doctoral research. Specifically, I am advancing the development of a smart retail system integrated with artificial intelligence technology, aimed at addressing labor shortages and the challenges posed by an aging population.
+      
+      I have interned at three leading Chinese internet companies including ByteDance and Tencent. My roles have ranged from algorithm engineer to game operations and strategy analysis. My personal research philosophy and life philosophy is: Innovation+Motivation=Application.
     skills:
       enable: true
-      title: "Here are a few technologies I've been working with recently:"
+      title: "Here are a few fields I've been closely following:"
       items:
-        - "HTML"
-        - "CSS"
-        - "JavaScript"
-        - "React"
-        - "Node"
-        - "Express"
+        - "Natural Language Processing (Sentiment Analysis)"
+        - "Large Language Models (LLMs)"
+        - "Computer Vision (Style Transfer)"
+        - "Object Detection"
+        - "EEG Analysis"
+        - "Consumer Behavior Modeling and Analysis"
 
   # Experience
   experience:
     enable: true
     # title: "Custom Name"
     items:
-      - job: "Senior Software Developer"
-        company: "Facebook"
-        companyUrl: "https://example.com"
-        date: "Jan 2022 - present"
+      - job: "Multimedia algorithm engineer"
+        company: "Tencent"
+        companyUrl: "https://www.tencent.com/en-us/"
+        date: "January 2022 - March 2022"
         featuredLink:
           enable: true
-          name: "View the project"
-          url: "https://example.com"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+          name: "Tencent Oteam-OCR project"
+          url: "https://www.youtube.com/watch?v=KMTuWrZ72Kg&t=1s"
+        info:
+          enable: true
+          content: I worked as a multimedia algorithm engineer for 3 months in Tencent.
+        content: |
+          1. Tencent Oteam-OCR Open Source Collaborative Project: responsible  for the collaborative  development of some algorithms for image distortion correction , detection , and recognition , and at the same time for code debugging , integration, testing under the remote server linux system.
+          2. Tencent  NLG (table text generation ) start -up project : responsible for table analysis mode , text preprocessing , structure     design    and   algorithmization        of table preprocessing , for efficient  processing  and analysis  of Tencent's various game data.
 
-      - job: "Software"
-        company: "Amazon"
-        companyUrl: "https://example.com"
-        date: "Sep 2020 - Dec 2021"
+      - job: "Game data operation"
+        company: "Bytedance (MOONTON Games)"
+        companyUrl: "https://en.moonton.com/games/index.html"
+        date: "April 2022 - October 2022"
         featuredLink:
           enable: true
-          url: "https://example.com"
+          name: "MLBB M5 with a peak audience exceeding 5.06 million viewers"
+          url: "https://www.youtube.com/watch?v=kHoiteTv6-k"
         info:
           enable: true
           content: I worked as a software developer for more than one year in Amazon.
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+          1. Organize the No. 1 MOBA game in South Asia "MLBB" local events in Pakistan, Nepal, Bangladesh and more.
+          2. Responsible for localized community operations in South Asia.
+          3. Responsible for the operation of creator projects in South Asia, and is the organizer and manager of a creator team of about 100 people.
+          4. Use data analytics to analyze and predict game user data and calculate return on investment.
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
-
-      - job: "Junior Software Developer"
-        company: "Apple"
-        companyUrl: "https://example.com"
-        date: "Jan 2020 - Aug 2020"
+      - job: "Strategy Analyst"
+        company: "Lilith Games"
+        companyUrl: "https://www.lilith.com/?locale=en-US"
+        date: "July 2023 - October 2023"
         info:
           enable: false
         featuredLink:
           enable: true
-          url: "https://example.com"
+          name: "The developer of Rise of Kingdoms"
+          url: "https://www.youtube.com/watch?v=FzW6xACkL-U"
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+          1. Participate in the project establishment of the company 's internal AI native pet management game , including meeting minutes , brainstorming, project BP, etc.
+          2. Industry financial reports and annual report analysis , game competitive product monitoring , AI-driven game market forecast , etc. Game types include but are not limited to: FPS, match-3 and SLG.
+          3. Conduct project investment and cooperation talks with leading game companies and new power studios in Europe , the United States, South Korea and other regions.
 
       - job: "UI/UX Designer"
         company: "Netflix"
