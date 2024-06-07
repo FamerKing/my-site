@@ -39,6 +39,11 @@ Menus:
       title: Blog posts
       url: /blog3/
       weight: 1
+    - identifier: pub
+      name: Publication
+      title: Publication
+      url: /publication
+      weight: 1
     - identifier: gallery
       name: Gallery
       title: Blog posts
