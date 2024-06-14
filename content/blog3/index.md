@@ -1,5 +1,5 @@
 ---
-title: "Aspect-level cross-linguistic multi-layer sentiment analysis framework"
+title: "AGO-I: A real-time consumer intelligent guidance system based on IoT and multi-tasking user portrait"
 description: "Blog posts"
 type: "section"
 ---
