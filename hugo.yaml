@@ -49,6 +49,11 @@ Menus:
       title: Blog posts
       url: /gallery
       weight: 2
+    - identifier: plan
+      name: plan
+      title: Plan
+      url: /plan/
+      weight: 1
 #    Dropdown menu
 #     - identifier: dropdown
 #       title: Example dropdown menu
