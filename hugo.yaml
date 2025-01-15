@@ -154,7 +154,7 @@ params:
       enable: true
       name: "Resume"
       url: "/resume.pdf"
-      download: true
+      download: false
       newPage: false
     socialLinks:
       customIcons:
